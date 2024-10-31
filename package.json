@@ -1,0 +1,12 @@
+{
+  "name": "node-app-testable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Teixeira Câmara Mourão",
+  "license": "ISC",
+  "description": ""
+}
