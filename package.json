@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "vitest": "^2.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
   }
 }
