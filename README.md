@@ -1,4 +1,4 @@
-# Nome do Projeto
+# App node testable
 
 ### Descrição
 Este projeto é uma API backend testável e totalmente independente de frameworks, banco de dados e interface. Desenvolvida para resolver um problema comum enfrentado por clientes: a dificuldade em realizar agendamentos devido à falta de informações claras sobre horários disponíveis. O sistema permite que os clientes agendem compromissos de forma simples e organizada, garantindo que conflitos de horários sejam evitados.
